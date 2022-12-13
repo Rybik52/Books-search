@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "img": "https://img4.labirint.ru/rc/d52d0ab97e88fa58e05871219b7e5ee8/363x561q80/books60/599528/cover.jpg?1612708272",
+      "title": "Ремарк",
+      "autor": "Кто?",
+      "type": "РОман"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "title": "451",
+      "autor": "Джордж Оруэлл",
+      "type": "Антиутопия"
+    },
+    {
+      "id": 3,
+      "img": "https://img3.labirint.ru/rc/05ebb670e440a8655c5fb689c1af3ea7/363x561q80/books42/419735/cover.jpg?1563737926",
+      "title": "1984",
+      "autor": "Кто?",
+      "type": "Фантастика"
+    },
+    {
+      "id": 4,
+      "img": "",
+      "title": "Шрек",
+      "autor": "я",
+      "type": "Сказка"
+    },
+    {
+      "id": 5,
+      "img": "",
+      "title": "Пинокио",
+      "autor": "тож я",
+      "type": "Фантастика"
+    },
+    {
+      "id": 6,
+      "img": "https://img4.labirint.ru/rc/e59cd4507ab5a3fa82238e7979d2c745/363x561q80/books74/731548/cover.jpg?1577273160",
+      "title": "Буратино",
+      "autor": "Алексей Николаевич Толстой",
+      "type": "Фантастика"
+    }
+  ]
+}
