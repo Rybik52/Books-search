@@ -10,4 +10,4 @@
 	<li>Откройте браузер и перейдите на страницу с URL адресом - <a href='http://localhost:3000/'>http://localhost:3000/</a></li>
 </ol>
 <h3>Изображение результата</h3>
-![image](https://github.com/Rybik52/Books-search/assets/74355761/b664a8b4-3125-4c27-ad81-4b6bda2acb63)
+![image](https://github.com/Rybik52/Books-search/blob/63addba9dd9809ed52088bc920bc7d37530c36b5/exampleScrin.png)
